@@ -15,3 +15,6 @@ else
 .............
 .............
 }
+
+This statement is very important in C programming as it allows you to
+take a decision in a C program and perform action accordingly.
